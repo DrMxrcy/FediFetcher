@@ -1,6 +1,5 @@
 {
-  "server": "process.env.SERVER",
-  "home-timeline-length": 200,
-  "max-followings": 80,
+  "home-timeline-length": 400,
+  "max-followings": 100,
   "from-notifications": 1
 }
